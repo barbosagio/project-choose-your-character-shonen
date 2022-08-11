@@ -10,7 +10,7 @@ A dinâmica era criar uma tela de personagens da Marvel, porém os professores d
 
 ![projeto_shonen_battle](https://user-images.githubusercontent.com/104580439/168818248-7e61b8f7-16df-4476-94fb-d21b22e9a329.JPG)
 
-# Linguagens usadas:
+# Linguagens utilizadas:
 
 - HTML 5
 - CSS 3
